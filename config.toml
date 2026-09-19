@@ -19,6 +19,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Pinterest]
+enabled = false
 app-name = "Pinterest"
 patches-source = "SouBryan/pinterest-morphed"
 cli-source = "MorpheApp/morphe-cli"
@@ -41,6 +42,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-includin
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [ProtonVPN]
+enabled = false
 app-name = "ProtonVPN"
 patches-source = "rushiranpise/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -62,6 +64,7 @@ version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/automattic-inc/pocket-casts/"
 
 [NokoPrint]
+enabled = false
 app-name = "NokoPrint"
 patches-source = "jkennethcarino/adobo"
 included-patches = "'Disable mobile ads' 'Block ads, trackers, and analytics' 'Deactivate Firebase Analytics' 'Deactivate Firebase Performance Monitoring' 'Spoof Advertising ID'"
