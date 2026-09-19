@@ -32,7 +32,7 @@ uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 
 [Tiktok]
 app-name = "Tiktok"
-patches-source = "icysymmetra/tiktok-patches-for-morphe"
+patches-source = "SysAdminDoc/hushfeed"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "apk"
